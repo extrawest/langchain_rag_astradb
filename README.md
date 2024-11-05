@@ -1,4 +1,4 @@
-#  Langchain PDF RAG with AstraDB Cassandra
+#  Langchain PDF RAG with AstraDB Cassandra Showcase
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)]()
 [![Maintaner](https://img.shields.io/static/v1?label=Andriy%20Gulak&message=Maintainer&color=red)](mailto:andriy.gulak@extrawest.com)
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/extrawest/langchain_rag_astradb/issues)
