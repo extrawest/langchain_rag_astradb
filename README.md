@@ -6,7 +6,6 @@
 
 ## PROJECT INFO
 - **Langchain RAG with PDF**
-- Streamlit for interactive app and slick UI
 - **Chatbot with RAG capabilities. Works with OpenAI and Cassandra Vector Store**
 
 ## Features
